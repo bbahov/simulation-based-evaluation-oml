@@ -48,14 +48,6 @@ Results are saved to `results/`:
 
 **Metric:** Rolling accuracy (window = 50) — at each step, does the model's greedy top recommendation match the oracle's current preferred item?
 
-## Citation
-
-If you use this code, please cite:
-
-```
-[citation placeholder]
-```
-
 ## License
 
 MIT
